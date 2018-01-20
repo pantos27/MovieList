@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="release_date">Release date:</string>
+    <string name="language">Language:</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="overview">Overview:</string>
+    <string name="all">*All</string>
+
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
